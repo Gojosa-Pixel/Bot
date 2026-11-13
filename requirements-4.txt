@@ -1,0 +1,6 @@
+pyrofork>=2.3.47
+tgcrypto
+google-genai>=1.0.0,<3.0.0
+motor
+psutil
+Pillow
